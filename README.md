@@ -1,6 +1,5 @@
 # -Plant-Species-for-Classification-Task
 
-# Plant Species Classification Task
 
 ## Problem Statement
 In this project, we aim to classify plant species based on images. The dataset consists of 4,570 image files belonging to 12 different plant species. The task is to predict the plant species for images in the test set and generate a CSV file with the predictions.

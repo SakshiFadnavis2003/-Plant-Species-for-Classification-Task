@@ -18,6 +18,19 @@ You can download the dataset from [here](https://www.kaggle.com/competitions/dhu
 ## Evaluation
 We will evaluate the performance of our CNN model using the F1-score metric with the 'macro' average parameter. F1-score provides a balanced measure of a model's precision and recall across all classes.
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgements
+Special thanks to Scikit-Learn for the machine learning algorithms and tools used in this project.
+Thanks to Pandas and Matplotlib for the data manipulation and visualization libraries used in this project.
+Feel free to reach out to me if you have any questions or suggestions!
+
+
+
+
+
+
 ## Citation
 Dataset: [DHU-AILAB-image-classification](https://www.kaggle.com/competitions/dhu-ailab-image-classification) by Hello Chb. (2024) on Kaggle.
 
